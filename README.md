@@ -1,6 +1,6 @@
 # pac-man
 
-You can view a live demo <a href="https://www.github.com/laurenmessemer/pacman/pacmandemo.html/" target="_blank">here.</a>
+You can view a live demo [here.](https://github.com/laurenmessemer/pacman/blob/9edc3c19c07009127f472a611623bee185358c6b/pacmandemo.html)
 
 ![pacman](https://user-images.githubusercontent.com/70284444/170416761-efef7282-2be4-478f-b3fb-40d8920d7a3b.png)
 
