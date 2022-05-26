@@ -1,7 +1,5 @@
 # pac-man
 
-You can view a live demo [here.](https://github.com/laurenmessemer/pacman/blob/9edc3c19c07009127f472a611623bee185358c6b/pacmandemo.html)
-
 ![pacman](https://user-images.githubusercontent.com/70284444/170416761-efef7282-2be4-478f-b3fb-40d8920d7a3b.png)
 
 ## Description
@@ -11,13 +9,10 @@ How To Run
 - Fork this repository
 - Open the index.html file in an IDE
 - Launch the file in your web browser
-- Press "Add PacMan" to add a new PacMan
-- Press "Start Game" to start
 
 ## RoadMap
 
-- Add a stop button
-- Add ghosts to game 
+- Add ghoststo follow PacMan
 - Add PacMan removal functionality by ghosts
 
 
